@@ -15,7 +15,7 @@ This repository contains the source code for a fully responsive website with a s
 ---
 
 ### **Demo**:
-You can check out the live version of the website [here](#).
+You can check out the live version of the website [here](https://showcase-by-atharva.netlify.app/).
 
 ---
 
@@ -70,7 +70,7 @@ responsive-3d-slider/
 ### **Screenshots**:
 
 #### Desktop View:
-![Desktop Screenshot](images/desktop_screenshot.png)
+![Desktop Screenshot](https://github.com/CrazAr374/Sliding-images/blob/main/Screenshot%202024-09-15%20100252.png)
 
 ---
 
